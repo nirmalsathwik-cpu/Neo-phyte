@@ -1,1 +1,1 @@
-git and github session by tinkerhub
+git and github session by tinkerhub.
